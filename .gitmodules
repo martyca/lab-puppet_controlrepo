@@ -1,0 +1,3 @@
+[submodule "site/profile/web"]
+	path = site/profile/web
+	url = https://github.com/martyca/lab-puppet_subprofile.git
