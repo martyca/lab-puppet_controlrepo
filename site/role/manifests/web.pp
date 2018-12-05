@@ -1,3 +1,3 @@
 class role::web{
-  include web::nginx
+  include profile::web::nginx
 }
