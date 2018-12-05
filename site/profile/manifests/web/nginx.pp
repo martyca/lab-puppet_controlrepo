@@ -1,3 +1,3 @@
 class profile::web::nginx{
-  notify {'hello world'}
+  notify { 'hello world': }
 }
