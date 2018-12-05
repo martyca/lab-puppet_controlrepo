@@ -7,4 +7,4 @@ mod 'puppetlabs/stdlib'
 # Departments
 mod 'issc_hippo_web',
   :git    => 'https://github.com/martyca/lab-puppet_subprofile.git',
-  :branch => 'production'
+  :branch => :control_branch
